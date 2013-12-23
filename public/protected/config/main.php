@@ -18,12 +18,12 @@ return array(
         'application.components.*',
     ),
 
-    'controllerNamespace' => 'application\controllers',
+    'controllerNamespace' => '\application\controllers',
 
 //    'defaultController' => '/service1/site',
 
     'controllerMap' => array(
-        'service2_site' => 'application\controllers\service2\SiteController',
+        'service2_site' => '\application\controllers\service2\SiteController',
     ),
 
     'modules' => array(
@@ -35,10 +35,10 @@ return array(
 //            'newDirMode'=>0777,
         ),
         'service1' => array(
-            'class' => 'application\modules\service1\Service1Module',
+            'class' => '\application\modules\service1\Service1Module',
         ),
         'service4' => array(
-            'class' => 'application\modules\service4\Service4Module',
+            'class' => '\application\modules\service4\Service4Module',
         ),
     ),
 

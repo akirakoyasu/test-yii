@@ -14,7 +14,7 @@ class Service1Module extends \CWebModule
 //			'application.modules.service1.models.*',
 //			'application.modules.service1.components.*',
 //		));
-        $this->controllerNamespace = __NAMESPACE__ . '\controllers';
+        $this->controllerNamespace = '\\' . __NAMESPACE__ . '\controllers';
 	}
 
 	public function beforeControllerAction($controller, $action)
