@@ -18,27 +18,27 @@ return array(
         'application.components.*',
     ),
 
-    'controllerNamespace' => '\application\controllers',
+    'controllerNamespace' => 'application\controllers',
 
 //    'defaultController' => '/service1/site',
 
     'controllerMap' => array(
-        'service2_site' => '\application\controllers\service2\SiteController',
+        'service2_site' => 'application\controllers\service2\SiteController',
     ),
 
-    'modules'=>array(
-        'gii'=>array(
-            'class'=>'system.gii.GiiModule',
-            'password'=>'password',
-            'ipFilters'=>array('*'),
+    'modules' => array(
+        'gii' => array(
+            'class' => 'system.gii.GiiModule',
+            'password' => 'password',
+            'ipFilters' => array('*'),
 //            'newFileMode'=>0666,
 //            'newDirMode'=>0777,
         ),
-        'service1'=>array(
-            'class'=>'\application\modules\service1\Service1Module',
+        'service1' => array(
+            'class' => 'application\modules\service1\Service1Module',
         ),
-        'service4'=>array(
-            'class'=>'\application\modules\service4\Service4Module',
+        'service4' => array(
+            'class' => 'application\modules\service4\Service4Module',
         ),
     ),
 
@@ -70,6 +70,7 @@ return array(
         'urlManager' => array(
             'urlFormat' => 'path',
             'rules' => array(
+                'service1/<controller:\w+>' => 'service1/<controller>',
                 '<service:\w+>/<controller:\w+>' => '<service>_<controller>',
                 '<service:\w+>/<controller:\w+>/<action:\w+>' => '<service>_<controller>/<action>',
 //                '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
@@ -84,7 +85,7 @@ return array(
                 ),
                 // uncomment the following to show log messages on web pages
                 array(
-                    'class'=>'CWebLogRoute',
+                    'class' => 'CWebLogRoute',
                 ),
             ),
         ),
