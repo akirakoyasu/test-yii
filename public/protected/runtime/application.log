@@ -1,0 +1,653 @@
+2013/12/22 10:43:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /Users/koyasu/var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/test-yii/public/index.php
+---
+2013/12/22 10:43:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /Users/koyasu/var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/test-yii/public/index.php
+---
+2013/12/22 10:43:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /Users/koyasu/var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /Users/koyasu/var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/test-yii/public/index.php
+---
+2013/12/22 23:30:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:31:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:33:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "post".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:33:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:37:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:37:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:38:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:40:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:40:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:41:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:41:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "/service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/22 23:41:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:42:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:43:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/yiilite.php:1750
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1666): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/yiilite.php(1191): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:43:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/22 23:44:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/23 00:12:42 [error] [exception.CException] exception 'CException' with message 'CHttpRequest is unable to determine the request URI.' in /Users/koyasu/var/workspace/test-yii/yii/framework/web/CHttpRequest.php:519
+Stack trace:
+#0 /Users/koyasu/var/workspace/test-yii/yii/framework/web/CHttpRequest.php(431): CHttpRequest->getRequestUri()
+#1 /Users/koyasu/var/workspace/test-yii/yii/framework/web/CUrlManager.php(364): CHttpRequest->getPathInfo()
+#2 /Users/koyasu/var/workspace/test-yii/yii/framework/web/CWebApplication.php(140): CUrlManager->parseUrl(Object(CHttpRequest))
+#3 /Users/koyasu/var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /Users/koyasu/var/workspace/test-yii/public/index.php(14): CApplication->run()
+#5 {main}
+---
+2013/12/23 00:13:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service1/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service1/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service1/site
+---
+2013/12/23 00:31:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/gii
+---
+2013/12/23 00:31:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /media/sf_var/workspace/test-yii/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/gii
+---
+2013/12/23 00:32:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /media/sf_var/workspace/test-yii/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/gii
+---
+2013/12/23 00:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2013/12/23 00:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/site
+---
+2013/12/23 00:45:48 [error] [php] include(Service1Module.php): failed to open stream: No such file or directory (/media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(206): spl_autoload_call()
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): createComponent()
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CWebApplication->getModule()
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /media/sf_var/workspace/test-yii/public/index.php(14): CWebApplication->run()
+REQUEST_URI=/service1/site
+2013/12/23 00:50:41 [error] [php] include(Service1Module.php): failed to open stream: No such file or directory (/media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(206): spl_autoload_call()
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): createComponent()
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CWebApplication->getModule()
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /media/sf_var/workspace/test-yii/public/index.php(14): CWebApplication->run()
+REQUEST_URI=/service1/site
+2013/12/23 00:51:12 [error] [php] include(Service1Module.php): failed to open stream: No such file or directory (/media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:428)
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(206): spl_autoload_call()
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): createComponent()
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CWebApplication->getModule()
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController()
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /media/sf_var/workspace/test-yii/public/index.php(14): CWebApplication->run()
+REQUEST_URI=/service1/site
+2013/12/23 00:56:22 [error] [exception.CException] exception 'CException' with message 'Alias "\application\controllers\service2" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:282
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(196): YiiBase::import('\application\co...', true)
+#1 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(332): YiiBase::createComponent('\application\co...', 'service2', NULL)
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController('service2/site')
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#4 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#6 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 00:58:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 00:59:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 00:59:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 00:59:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:00:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:00:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:01:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:02:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:03:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:07:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:07:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:07:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:08:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:10:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site/index".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site/i...')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:13:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:13:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site/index".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site/i...')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:13:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2_site/index".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2_site/i...')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:26:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 01:27:49 [error] [exception.CException] exception 'CException' with message 'Alias "application.controllers.service3.SiteAction" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:322
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(196): YiiBase::import('application.con...', true)
+#1 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(440): YiiBase::createComponent(Array, Object(application\controllers\Service3Controller), 'site')
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(417): CController->createActionFromMap(Array, 'site', 'site')
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(259): CController->createAction('site')
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(282): CController->run('site')
+#5 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3/site')
+#6 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#8 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 01:28:17 [error] [php] include(SiteAction.php): failed to open stream: No such file or directory (/media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(204): spl_autoload_call()
+#1 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(440): createComponent()
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(417): application\controllers\Service3Controller->createActionFromMap()
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CController.php(259): application\controllers\Service3Controller->createAction()
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(282): application\controllers\Service3Controller->run()
+#5 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /media/sf_var/workspace/test-yii/public/index.php(14): CWebApplication->run()
+REQUEST_URI=/service3/site
+2013/12/23 01:35:55 [error] [exception.CException] exception 'CException' with message 'Alias "modules.service1.models.*" is invalid. Make sure it points to an existing directory or file.' in /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:347
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(226): YiiBase::import('modules.service...')
+#1 /media/sf_var/workspace/test-yii/public/protected/modules/service1/Service1Module.php(18): CModule->setImport(Array)
+#2 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(90): application\modules\service1\Service1Module->init()
+#3 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(206): CModule->__construct('service4', NULL, Array)
+#4 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): YiiBase::createComponent('\application\mo...', 'service4', NULL, Array)
+#5 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CModule->getModule('service4')
+#6 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController('service4/site')
+#7 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service4/site')
+#8 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/service4/site
+---
+2013/12/23 01:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:55:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:55:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:57:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 01:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:00:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2\site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2\site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:04:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:05:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:08:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site/post".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site/p...')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site/post
+---
+2013/12/23 02:11:43 [error] [exception.CException] exception 'CException' with message 'Alias "\application\modules\service1\Service4Module" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:282
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(196): YiiBase::import('\application\mo...', true)
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): YiiBase::createComponent('\application\mo...', 'service4', NULL, Array)
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CModule->getModule('service4')
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController('service4/site')
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service4/site')
+#5 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#7 {main}
+REQUEST_URI=/service4/site
+---
+2013/12/23 02:11:43 [error] [exception.CException] exception 'CException' with message 'Alias "\application\modules\service1\Service4Module" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php:282
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/YiiBase.php(196): YiiBase::import('\application\mo...', true)
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CModule.php(282): YiiBase::createComponent('\application\mo...', 'service4', NULL, Array)
+#2 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(337): CModule->getModule('service4')
+#3 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(276): CWebApplication->createController('service4/site')
+#4 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service4/site')
+#5 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#7 {main}
+REQUEST_URI=/service4/site
+---
+2013/12/23 02:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 02:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 02:25:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 02:25:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service2/site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service2/site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service2/site
+---
+2013/12/23 02:26:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 02:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
+2013/12/23 02:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "service3_site".' in /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /media/sf_var/workspace/test-yii/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('service3_site')
+#1 /media/sf_var/workspace/test-yii/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /media/sf_var/workspace/test-yii/public/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/service3/site
+---
