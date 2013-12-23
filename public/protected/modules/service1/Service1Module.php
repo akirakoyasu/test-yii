@@ -4,18 +4,17 @@ namespace application\modules\service1;
 
 class Service1Module extends \CWebModule
 {
-    public $controllerNamespace = '\application\modules\service1\controllers';
-
 	public function init()
 	{
 		// this method is called when the module is being created
 		// you may place code here to customize the module or the application
 
-		// import the module-level models and components
-		$this->setImport(array(
-			'application.modules.service1.models.*',
-			'application.modules.service1.components.*',
-		));
+//		// import the module-level models and components
+//		$this->setImport(array(
+//			'application.modules.service1.models.*',
+//			'application.modules.service1.components.*',
+//		));
+        $this->controllerNamespace = '\\' . __NAMESPACE__ . '\controllers';
 	}
 
 	public function beforeControllerAction($controller, $action)

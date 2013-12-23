@@ -8,14 +8,15 @@
 
 namespace application\controllers\service2;
 
+use application\models\service2\SiteModel;
 
 class SiteController extends \CController {
     function actionIndex() {
         echo '<pre>';
-        var_dump($_SERVER);
-        var_dump($_ENV);
-        var_dump(\Yii::app());
-        echo 'Foo!';
+
+        $model = new SiteModel();
+        var_dump($model);
+        echo $model->say();
     }
     function actionPost() {
         echo 'Bar!';
