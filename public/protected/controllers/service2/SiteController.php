@@ -11,6 +11,10 @@ namespace application\controllers\service2;
 
 class SiteController extends \CController {
     function actionIndex() {
+        echo '<pre>';
+        var_dump($_SERVER);
+        var_dump($_ENV);
+        var_dump(\Yii::app());
         echo 'Foo!';
     }
     function actionPost() {
