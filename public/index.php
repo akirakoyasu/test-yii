@@ -15,6 +15,7 @@ if (isset($_SERVER['APPLICATION_ENV'])) {
         $configFile = __DIR__ . '/protected/config/development.php';
     }
 }
+
 // Yii ブートストラップ (立ち上げ) ファイルを組込みます。
 require_once __DIR__ . '/../yii/framework/yii.php';
 // アプリケーションインスタンスを生成して実行します。
